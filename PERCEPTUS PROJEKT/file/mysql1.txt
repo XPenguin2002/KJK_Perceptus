@@ -1,0 +1,1 @@
+INSERT INTO `uzytkownicy` (`id`, `email`, `haslo`, `typ`) VALUES (1, 'jakub@kjkenterprise.pl',(SHA2('NaDzIeJa_76',512)),'admin'), (2, 'pawko@kjkenterprise.pl',(SHA2('haslo123',512)),'uzytkownik'), (3, 'uzytkownik1@kjkenterprise.pl',(SHA2('haslo123',512)),'uzytkownik');
