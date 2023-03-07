@@ -1,2 +1,0 @@
-CREATE DEFINER=`root`@`localhost` EVENT `usuwanie_uzytkownik1@kjkenterprise.pl` ON SCHEDULE EVERY 30 DAY STARTS '2022-12-06 21:53:33' ON COMPLETION NOT PRESERVE ENABLE DO DELETE FROM pliki WHERE email='uzytkownik1@kjkenterprise.pl' and kosz='1';
-CREATE DEFINER=`root`@`localhost` EVENT `usuwanie_nieudanych_logowan` ON SCHEDULE EVERY 20 MINUTE STARTS '2022-12-06 21:53:33' ON COMPLETION NOT PRESERVE ENABLE DO TRUNCATE TABLE ip$$
