@@ -1,6 +1,6 @@
 <?php
 $host="localhost";
 $uzytkownik_bd="jakub";
-$haslo_bd="NaDzIeJa_76";
+$haslo_bd="KrAHw#.!6W";
 $bd="projekt";
 ?>
