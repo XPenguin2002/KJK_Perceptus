@@ -1,6 +1,6 @@
 <?php
 $host="localhost";
-$uzytkownik_bd="jakub";
-$haslo_bd="KrAHw#.!6W";
+$uzytkownik_bd="";#nazwa uzytkownika bazy danych
+$haslo_bd="";#haslo do bazy danych
 $bd="projekt";
 ?>
